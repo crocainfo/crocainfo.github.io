@@ -1025,3 +1025,11 @@ footer .social-links li:first-child { margin-left: 0; }
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+#resume a.workExpLink{
+    color: #11AB9C;
+
+}
+#resume a.workExpLink:hover{
+    color: black;
+
+}
